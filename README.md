@@ -6,7 +6,7 @@ This roadmap is designed to guide you through the learning path for various prog
 C++ is a general-purpose programming language known for its efficiency and flexibility. It is widely used for developing system software, game engines, drivers, and other high-performance applications.
 
 ### Roadmap 🛣️
-- [ ] Variables and Data Types
+- [x] Variables and Data Types
 - [ ] Operators and Expressions
 - [ ] Control Flow (Conditionals and Loops)
 - [ ] Functions
